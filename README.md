@@ -10,3 +10,5 @@ fisheries that are impacted by harmful algae blooms using the event models. Our 
 research question is: What is the feasibility and effectiveness of index insurance products
 based on the C-HARM model as a financial risk management solution for losses resulting
 from fisheries closures?
+
+This is the Data Management Plan for this project. 
