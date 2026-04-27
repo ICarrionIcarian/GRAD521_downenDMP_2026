@@ -1,12 +1,12 @@
 # Data Description
 There are three different datasets I am using to address the feasibility of an index insur-
-ance product before looking at efficacy:
+ance product before looking at efficacy:  
 • The historical crab fisheries closures for California spreadsheet. It contains vital
 closure information such as the impacted species, reason for closure, and the coun-
 ties affected with latitude measurements. Data is collected based on closure events
 executed by the California Department of Public Health. This dataset will be used
 in our exploratory data analysis phase where we will overlay fishery management
-zones with the crab closure data.
+zones with the crab closure data.  
 • The California Department of Public Health’s data on domoic acid levels in Dun-
 geness Crab sampled from collection sites along the coast. They sample individual
 Dungeness Crab viscera and check if parts per million (ppm) for domoic acid lev-
@@ -15,7 +15,7 @@ different collection sites with five sets of individual sample results per site.
 also include what percentage of the samples exceed the action level for ppm. This
 data is valuable with the historical fishery closure data because we can establish
 thresholds for when financial losses are likely to occur based on domoic acid levels
-in crab viscera collected at the time and location of a closure.
+in crab viscera collected at the time and location of a closure.  
 • The C-HARM historical forecast data. This is modeled data based on remote
 sensing, observational, and bloom probability data. The variables include latitude,
 longitude, the probability of the algae genus Pseudo-nitzschia exceeding 10,000
@@ -36,7 +36,7 @@ new data analysis or research developments will in essence belong to Oregon Stat
 University. I have no other formal data management requirements due to the nature of my
 data being open source with a free-use license.
 # Storage and Security
-Current data is stored on OSU CEOAS servers.
+Current data for analysis is stored on OSU CEOAS servers. All data is publicly available for future use from their respective sources. 
 # Access and Data Sharing
 Data analysis will only be available for my professor's lab and the aforementioned CEOAS server. Data used for the project
 are operated under a free use license. 
